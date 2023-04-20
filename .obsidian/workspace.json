@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/docker-compose.md",
+                "file": "Obsidian/Tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,45 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "374e6a5d20ace5c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/docker-compose.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3288cdf9cf6a7a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfffd701d821b455",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,13 +167,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dfffd701d821b455",
+  "active": "e17e7ce43dbb8244",
   "lastOpenFiles": [
-    "images/advanced_tables_tool.png",
+    "assets",
+    "advanced.md",
     "Obsidian/Tables.md",
     "Obsidian/Headings.md",
-    "images/advanced_tables.png",
-    "images",
+    "assets/images/advanced_tables_tool.png",
+    "assets/images/advanced_tables.png",
+    "assets/images",
     "Obsidian/md syntax.md",
     "Docker/docker network.md",
     "Docker/docker-compose.md",

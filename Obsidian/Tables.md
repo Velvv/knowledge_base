@@ -10,7 +10,7 @@
 
 That's how you create a Table in md. But this is quite anoying to write so for that exists a community plugin in Obsidian that does this for you:
 
-![[advanced_tables.png]]
+![](/assets/images/advanced_tables.png)
 
-![[advanced_tables_tool.png]]
+![](/assets/images/advanced_tables_tool.png)
 With this you'll be able to add, remove or move coloums and rows.
