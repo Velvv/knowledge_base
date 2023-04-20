@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3288cdf9cf6a7a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Tables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfffd701d821b455",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Tables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/docker-compose.md",
+                "file": "Obsidian/Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/docker-compose.md",
+                "file": "Obsidian/Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,16 +174,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/docker-compose.md"
+                "file": "Obsidian/Tables.md"
               }
             }
+          },
+          {
+            "id": "5d223b1c67c0cffd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,14 +200,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "374e6a5d20ace5c9",
+  "active": "dfffd701d821b455",
   "lastOpenFiles": [
-    "Docker/Dockerfile.md",
+    "images/advanced_tables_tool.png",
+    "Obsidian/Tables.md",
+    "Obsidian/Headings.md",
+    "images/advanced_tables.png",
+    "images",
+    "Obsidian/md syntax.md",
     "Docker/docker network.md",
     "Docker/docker-compose.md",
+    "Obsidian",
+    "Docker/Dockerfile.md",
     "2023-04-19.md",
     "Docker",
     "Untitled.canvas"
